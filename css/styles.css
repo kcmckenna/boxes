@@ -2,3 +2,7 @@ body {
     font-family: sans-serif;
     background: purple;
 }
+
+#page-title {
+    color: white;
+}

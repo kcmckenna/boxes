@@ -16,8 +16,8 @@ button.addEventListener('click', showGreeting)
 
 //showGreeting is a "callback", something that accounts for the future action//
 
-button.addEventListener('click', function(){
-    setH1(seyHello("BANANAS"))
-})
-
+// button.addEventListener('click', function(){
+//     setH1(seyHello("BANANAS"))
+// })
+// ^^^^^^^^^^^^^^^^^^^^^^^^
 //the function here is called "anonymous", used when only wanting to use a particular example by declaring that function//
