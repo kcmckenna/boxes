@@ -3,7 +3,7 @@ function sayHello(name) {
 }
 
 function setH1(string) {
-    var h1 = document.querySelector('h1')
+    var h1 = document.querySelector('#greeting')
     h1.innerText = string
 }
 
